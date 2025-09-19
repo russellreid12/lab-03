@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ListyCityLab3</string>
+    <string name="app_name">ListyCity</string>
+    <string name="add_text">Add</string>
+    <string name="delete_text">Delete</string>
+    <string name="edit_text">Edit</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_province">Enter Province</string>
+    <string name="edit">Edit</string>
 </resources>
