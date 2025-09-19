@@ -2,7 +2,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/4448779/how-to-inflate-xml-layout-file-correctly-inside-custom-viewgroup
+
 
 ## Verbal Collaboration
 
